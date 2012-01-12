@@ -1,0 +1,3 @@
+Processes the input audio stream in real time.
+Returns an endpointed/filtered recording to be uploaded to a server for transcription.
+The server returns the recognized speech.
